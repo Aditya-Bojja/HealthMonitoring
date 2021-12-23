@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.titleColor{
+  color: black;
+}
+
+.custombg {
+  background-color: black;
+  color: whitesmoke;
+  font-family: 'KoHo', Times, serif;
+  font-size: 0.8rem;
+  width: 500px;
+  height: 100px;
+  margin: 20px auto 20px auto;
+}
+
+img{
+  float: left;
+}
