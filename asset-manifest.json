@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HealthMonitoring/static/css/main.a9f64268.css",
+    "main.js": "/HealthMonitoring/static/js/main.4d0b0a22.js",
+    "static/js/787.4bfdc45f.chunk.js": "/HealthMonitoring/static/js/787.4bfdc45f.chunk.js",
+    "index.html": "/HealthMonitoring/index.html",
+    "main.a9f64268.css.map": "/HealthMonitoring/static/css/main.a9f64268.css.map",
+    "main.4d0b0a22.js.map": "/HealthMonitoring/static/js/main.4d0b0a22.js.map",
+    "787.4bfdc45f.chunk.js.map": "/HealthMonitoring/static/js/787.4bfdc45f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f64268.css",
+    "static/js/main.4d0b0a22.js"
+  ]
+}
